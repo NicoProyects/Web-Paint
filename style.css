@@ -2,10 +2,11 @@ body, div {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	
 }
 
 body {
-	background: #ededed;
+	background: #555;
 }
 
 canvas {
@@ -15,7 +16,7 @@ canvas {
 
 h1 {
 	text-align: center;
-	color: #333;
+	color: #fff;
 	font-family: sans-serif;
 	margin-top: 50px;
 }
