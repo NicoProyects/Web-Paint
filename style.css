@@ -1,0 +1,44 @@
+body, div {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #ededed;
+}
+
+canvas {
+	border: 1px solid #000;
+	margin-bottom: -4px;
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+	font-family: sans-serif;
+	margin-top: 50px;
+}
+
+.editor {
+	background: #fff;
+	width: fit-content;
+	margin: auto;
+	margin-top: 50px;
+	border: 2px solid #000;
+}
+
+.editor div {
+	background: #000;
+}
+
+#lw {
+	width: 400px;
+	height: 20px;
+}
+
+#color {
+	width: 50px;
+	height: 40px;
+	margin: 5px;
+}
